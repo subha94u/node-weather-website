@@ -24,13 +24,6 @@ a:hover {
     margin: 10px;
 }
 
-.footerClass {
-    height: 50px;
-    padding: 15px 0;
-    background-color: black;
-    color: #FFF;
-    font-weight: 400;
-}
 */
 body {
     color: #333333;
@@ -74,6 +67,8 @@ header a {
 
 .portraitImg {
     width: 250px;
+    border: 1px solid #888888;
+    margin: 5px;
 }
 
 input {
